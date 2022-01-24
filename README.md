@@ -1,1 +1,1 @@
-# python_traning_p2
+# python_traning_p2 repository for traning
